@@ -1,1 +1,3 @@
-# LineBot
+Flask
+gunicorn
+line-bot-sdk
